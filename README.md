@@ -2,7 +2,7 @@
 
 I write lightweight programs and libraries, mostly using [C](https://en.wikibooks.org/wiki/C_Programming/Why_learn_C%3F) and [LuaJIT](https://luajit.org/luajit.html).
 
-Some of my current interests are 2D graphics programming, MIDI sequencers and UNIX tools and HTTP.
+Some of my current interests are 2D graphics, MIDI sequencers, UNIX tools and HTTP.
 
 Many of my projects are released into the [public domain](http://cr.yp.to/publicdomain.html), so you can use the code freely for any purpose.
 
