@@ -6,9 +6,9 @@ Some of my current interests are 2D graphics programming, MIDI sequencers and UN
 
 Many of my projects are released into the [public domain](http://cr.yp.to/publicdomain.html), so you can use the code freely for any purpose.
 
-I'm in the process of reducing reliance on GitHub. Eventually you'll find my stuff on [lecram.dev.br](lecram.dev.br).
-Recent code is already being pushed to [git.lecram.dev.br](git.lecram.dev.br).
+I'm in the process of reducing reliance on GitHub. Eventually you'll find my stuff on [lecram.dev.br](https://lecram.dev.br).
+Recent code is already being pushed to [git.lecram.dev.br](https://git.lecram.dev.br).
 
 Currently I'm unable to work on issues/PRs posted on my GitHub repos, sorry.
 
-There's still some old stuff at [lecram.github.io](lecram.github.io).
+There's still some old stuff at [lecram.github.io](https://lecram.github.io).
